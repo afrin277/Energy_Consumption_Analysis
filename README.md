@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Energy Consumption Analysis
 
 ## Project Overview
@@ -20,3 +21,6 @@ This project analyzes energy consumption, production, emissions, GDP, population
 
 ## How to Use
 Import the CSV datasets into your SQL database, adjust table names if needed, and execute the queries in the SQL script.
+=======
+# Energy_Consumption_Analysis
+>>>>>>> origin/main
